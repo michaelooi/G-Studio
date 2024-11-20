@@ -9,7 +9,9 @@
 蜡笔小新：新次元！超能力大决战,https://v11.tlkqc.com/wjv11/202403/07/v8gX1GRSv33/video/index.m3u8
 ##巾帼枭雄之悬崖粤语##,#genre#
 第01集,https://svip.high24-playback.com/20241021/8576_b7a7f757/index.m3u8
-第02集,https://svip.high24-playback.com/20241021/8575_75287863/index.m3u8,https://m3u.nikanba.live/share/6bdc58c89ade0d084cddcae915e0f1f0.m3u8,https://v11.dious.cc/20241021/qxkE1QdS/index.m3u8
+第02集,https://svip.high24-playback.com/20241021/8575_75287863/index.m3u8
+第02集,https://m3u.nikanba.live/share/6bdc58c89ade0d084cddcae915e0f1f0.m3u8
+第02集,https://v11.dious.cc/20241021/qxkE1QdS/index.m3u8
 第03集,https://v11.dious.cc/20241021/WzffaUoX/index.m3u8
 第04集,https://v11.dious.cc/20241021/Bnva1yWW/index.m3u8
 第05集,https://v11.dious.cc/20241022/azuR2F4o/index.m3u8
