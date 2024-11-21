@@ -19,3 +19,13 @@
 第08集,https://svip.high24-playback.com/20241023/8632_87b03142/index.m3u8
 第09集,https://svip.high22-playback.com/20241024/15048_be3fc838/index.m3u8
 第10集,https://svip.high24-playback.com/20241024/8791_d92b030c/index.m3u8
+第11集,https://svip.high22-playback.com/20241025/15170_ab941aab/index.m3u8
+第12集,https://svip.high22-playback.com/20241026/15271_84eb4df0/index.m3u8
+第13集,https://svip.high22-playback.com/20241027/15332_cd750f0d/index.m3u8
+第14集,https://svip.high24-playback.com/20241028/9132_bb690801/index.m3u8
+第15集,https://svip.high25-playback.com/20241028/10313_b2ae8479/index.m3u8
+第16集,https://svip.high22-playback.com/20241029/15447_edfd7784/index.m3u8
+第17集,https://svip.high24-playback.com/20241029/9182_5b7b55d3/index.m3u8
+第18集,https://svip.high25-playback.com/20241030/10416_0c567594/index.m3u8
+第19集,https://svip.high25-playback.com/20241030/10423_d6f4ebeb/index.m3u8
+第20集,https://bfikuncdn.com/20241031/xyJdY2NF/index.m3u8
