@@ -34,6 +34,6 @@
 第23集,https://svip.high25-playback.com/20241101/10757_2f6a5f9a/index.m3u8
 第24集,https://svip.high25-playback.com/20241101/10756_53b02ef4/index.m3u8
 第25集,https://svip.high25-playback.com/20241101/10758_e4fafdb0/index.m3u8
-法证先锋4,#genre#
-第01集,https://svip.high25-playback.com/20240910/5901_9adedab3/index.m3u8
-第02集,https://svip.high25-playback.com/20240910/5902_74403714/index.m3u8
+法证先锋5,#genre#
+第01集,https://m3u8.hmrvideo.com/play/3539a470a1564730a8c3f912cf088cd4.m3u8
+第02集,https://m3u8.hmrvideo.com/play/274c0229fa864b3a96a1de015c17e393.m3u8
