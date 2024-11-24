@@ -38,5 +38,6 @@
 法证先锋4,#genre#
 第01集,https://svip.high25-playback.com/20240910/5901_9adedab3/index.m3u8
 第01集,https://v8.dious.cc/20230212/ei2OW4wK/index.m3u8
+第01集,https://svip.high25-playback.com/20240910/5901_9adedab3/2000k/hls/mixed.m3u8
 第02集,https://v8.dious.cc/20230212/cEG0yjLb/index.m3u8
 第02集,https://svip.high25-playback.com/20240910/5902_74403714/index.m3u8
