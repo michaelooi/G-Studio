@@ -2,6 +2,7 @@
 龙骨遗冢,https://m3u8.hmrvideo.com/play/230dc2fa100f4168b5e13875b6f7d46f.m3u8
 猩球崛起：新世界,https://svip.high22-playback.com/20240520/2309_3ad4bbad/index.m3u8
 埃利亚斯,https://svip.high21-playback.com/20241107/39842_f3784dd5/index.m3u8
+狼战,https://svip.high21-playback.com/20241019/39495_060f2eb8/index.m3u8
 危机航线TC,https://v5.qrssv.com/202410/20/7amsfMYsW221/video/index.m3u8
 749局TC,https://m3u8.hmrvideo.com/play/7a3ee9247eac4ccd9d7498b1f2dfb0ef.m3u8
 -空-,
@@ -44,4 +45,6 @@
 第29集,https://m3u8.hmrvideo.com/play/7c968108f2af4eefbec6de861524ecd2.m3u8
 第30集,https://m3u8.hmrvideo.com/play/6f4c0044d6134b13a7a0334c7877fe36.m3u8
 变形金刚,#genre#
+1.变形金刚1,https://m3u8.hmrvideo.com/play/87aac996a52d471baa956a3c88649474.m3u8
+2.变形金刚2,https://m3u8.hmrvideo.com/play/c222e194ce5a42ecab87965efc650821.m3u8
 5.超能勇士崛起,https://m3u8.hmrvideo.com/play/43efdf1dd52a4b1aa4a8dad352ee55fb.m3u8
