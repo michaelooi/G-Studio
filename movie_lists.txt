@@ -10,12 +10,14 @@
 ##恐怖片##,#genre#
 湄公河水鬼,https://svip.high21-playback.com/20241118/40074_a545868b/index.m3u8
 百烛游戏2,https://v.cdnlz12.com/20241028/17489_82691100/index.m3u8
+-空-,
 ##科幻片##,#genre#
 逃生舱,https://svip.high21-playback.com/20240814/38212_7fec748a/index.m3u8
 -空-,
 ##动画片##,#genre#
-蜡笔小新: 新次元!超能力大决战,https://v11.tlkqc.com/wjv11/202403/07/v8gX1GRSv33/video/index.m3u8
-哆啦A梦: 大雄的地球交响乐https://m3u8.hmrvideo.com/play/3d3a749cbf8e472ba9f067c81fd51436.m3u8
+蜡笔小新:新次元!超能力大决战,https://v11.tlkqc.com/wjv11/202403/07/v8gX1GRSv33/video/index.m3u8
+哆啦A梦:大雄的地球交响乐https://m3u8.hmrvideo.com/play/3d3a749cbf8e472ba9f067c81fd51436.m3u8
+-空-,
 法证先锋5,#genre#
 第01集,https://m3u8.hmrvideo.com/play/3539a470a1564730a8c3f912cf088cd4.m3u8
 第02集,https://m3u8.hmrvideo.com/play/274c0229fa864b3a96a1de015c17e393.m3u8
@@ -47,6 +49,7 @@
 第28集,https://m3u8.hmrvideo.com/play/b6dd1e0492eb4509bcf3f96be1427bad.m3u8
 第29集,https://m3u8.hmrvideo.com/play/7c968108f2af4eefbec6de861524ecd2.m3u8
 第30集,https://m3u8.hmrvideo.com/play/6f4c0044d6134b13a7a0334c7877fe36.m3u8
+-完-,
 变形金刚,#genre#
 1.变形金刚1,https://m3u8.hmrvideo.com/play/87aac996a52d471baa956a3c88649474.m3u8
 2.变形金刚2,https://m3u8.hmrvideo.com/play/c222e194ce5a42ecab87965efc650821.m3u8
@@ -54,5 +57,5 @@
 4.绝迹重生,https://m3u8.hmrvideo.com/play/05f2b5c61ccd46429341f10f23a5c684.m3u8
 5.最后的骑士,https://m3u8.hmrvideo.com/play/4d1772c58a3243c1ad5b73f25f2e01b6.m3u8
 6.超能勇士崛起,https://m3u8.hmrvideo.com/play/43efdf1dd52a4b1aa4a8dad352ee55fb.m3u8
-7大黄蜂,https://m3u8.hmrvideo.com/play/d0b4f55c161140c499bd7ee7f9022959.m3u8
-
+7.大黄蜂,https://m3u8.hmrvideo.com/play/d0b4f55c161140c499bd7ee7f9022959.m3u8
+-空-,
