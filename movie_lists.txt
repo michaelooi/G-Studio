@@ -6,6 +6,7 @@
 幽灵行星,https://svip.high21-playback.com/20241029/39669_b855e785/index.m3u8
 危机航线TC,https://v5.qrssv.com/202410/20/7amsfMYsW221/video/index.m3u8
 749局TC,https://m3u8.hmrvideo.com/play/7a3ee9247eac4ccd9d7498b1f2dfb0ef.m3u8
+熊猫计划TC,https://v4.qrssv.com/202410/20/DuxQEPH6qL20/video/index.m3u8
 -空-,
 ##恐怖片##,#genre#
 湄公河水鬼,https://svip.high21-playback.com/20241118/40074_a545868b/index.m3u8
@@ -59,3 +60,7 @@
 6.超能勇士崛起,https://m3u8.hmrvideo.com/play/43efdf1dd52a4b1aa4a8dad352ee55fb.m3u8
 7.大黄蜂,https://m3u8.hmrvideo.com/play/d0b4f55c161140c499bd7ee7f9022959.m3u8
 -空-,
+钢铁侠,#genre#
+钢铁侠1,https://m3u8.hmrvideo.com/play/9d757798c61441baa7ff73d24fb47b9c.m3u8
+钢铁侠2,https://m3u8.hmrvideo.com/play/75f50898f67d4f5b885edb56c1a44780.m3u8
+钢铁侠3,https://m3u8.hmrvideo.com/play/6118fb35cb2348e692de938dda3f877c.m3u8
