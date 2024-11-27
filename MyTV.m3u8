@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="温馨提示" tvg-logo="" group-title="温馨提示", 温馨提示
+https://
 #EXTINF:-1 tvg-name="龙骨遗冢" tvg-logo="https://snzypic.vip/upload/vod/20241010-1/81a9ff7ecfcc3040f3569e24baa92185.jpg" group-title="动作片", 龙骨遗冢
 https://m3u8.hmrvideo.com/play/230dc2fa100f4168b5e13875b6f7d46f.m3u8
 #EXTINF:-1 tvg-name="猩球崛起：新世界" tvg-logo="https://pic1.imgyzzy.com/upload/vod/2024-05-20/17161984501.jpg" group-title="动作片", 猩球崛起：新世界
@@ -22,4 +23,5 @@ https://svip.high21-playback.com/20241118/40074_a545868b/index.m3u8
 https://v.cdnlz12.com/20241028/17489_82691100/index.m3u8
 #EXTINF:-1 tvg-name="看到灵魂的那只眼.师公" tvg-logo="https://snzypic.vip/upload/vod/20241109-1/c5f4068c660408985b59d3864c00d8b9.jpg" group-title="恐怖片", 看到灵魂的那只眼.师公
 https://svip.high21-playback.com/20241109/39896_14b7344c/index.m3u8
-
+#EXTINF:-1 tvg-name="逃生舱" tvg-logo="https://pic1.imgyzzy.com/upload/vod/2024-08-14/202408141723593877.jpg" group-title="科幻片", 逃生舱
+https://svip.high21-playback.com/20240814/38212_7fec748a/index.m3u8
