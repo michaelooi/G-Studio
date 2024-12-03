@@ -29,6 +29,10 @@ https://svip.high21-playback.com/20240814/38212_7fec748a/index.m3u8
 https://v11.tlkqc.com/wjv11/202403/07/v8gX1GRSv33/video/index.m3u8
 #EXTINF:-1 tvg-name="哆啦A梦:大雄的地球交响乐" tvg-logo="" group-title="动画片", 哆啦A梦:大雄的地球交响乐
 https://m3u8.hmrvideo.com/play/3d3a749cbf8e472ba9f067c81fd51436.m3u8
+#EXTINF:-1 tvg-name="危机航线" tvg-logo="https://www.feitu.tv/upload/vod/20241020-1/845fad1b71a40b9167bce359d0f7b273.webp" group-title="动作片", 危机航线
+https://svip.high21-playback.com/20241129/40285_ed081458/index.m3u8
+#EXTINF:-1 tvg-name="红色一号:冬日行动" tvg-logo="https://www.feitu.tv/upload/vod/20241202-1/f53697d3637c25e23764733d23587f1d.webp" group-title="动作片", 红色一号:冬日行动
+https://svip.high24-playback.com/20241202/12146_2a35b65d/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://snzypic.com/upload/vod/20231024-1/e570526690b90a8dbe2b2df81c1a8169.jpg" group-title="法证先锋IV", 第01集
 https://m3u8.hmrvideo.com/play/3539a470a1564730a8c3f912cf088cd4.m3u8
