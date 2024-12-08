@@ -23,6 +23,7 @@
 我是刑警,#genre#
 第09集,https://v6.qrssv.com/202411/30/0TLi4DG9YE20/video/index.m3u8
 第10集,https://v3.qrssv.com/202412/01/mSJSgQHpQP24/video/index.m3u8
+第13集,https://v10.tlkqc.com/wjv10/202412/02/czStK0K0Kr82/video/index.m3u8
 
 青春环游记[第五季],#genre#
 20240518,https://m3u8.hmrvideo.com/play/8f2f0d61e6c44208a01d7ad4fc9fcdf8.m3u8
