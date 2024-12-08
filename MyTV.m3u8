@@ -34,6 +34,8 @@ https://svip.high24-playback.com/20241202/12146_2a35b65d/index.m3u8
 
 #EXTINF:-1 tvg-name="我是刑警" tvg-logo="" group-title="我是刑警", 13
 https://v10.tlkqc.com/wjv10/202412/02/czStK0K0Kr82/video/index.m3u8
+#EXTINF:-1 tvg-name="我是刑警" tvg-logo="" group-title="我是刑警", 13a
+https://v10.tlkqc.com/wjv10/202412/02/czStK0K0Kr82/video/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://snzypic.com/upload/vod/20231024-1/e570526690b90a8dbe2b2df81c1a8169.jpg" group-title="法证先锋IV", 第01集
 https://m3u8.hmrvideo.com/play/3539a470a1564730a8c3f912cf088cd4.m3u8
