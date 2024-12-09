@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv info-name="by spark " info-url="https://">
+	<channel id="我是刑警">
+		<display-name lang="zh">我是刑警</display-name>
+	</channel>
+	<programme channel="我是刑警" start="20241209173000 +0800" stop="20241209181500 +0800">
+		<title lang="zh">13</title>
+	</programme>
+	<programme channel="我是刑警" start="20241209181500 +0800" stop="20241209190000 +0800">
+		<title lang="zh">14</title>
+	</programme>
+</tv>
