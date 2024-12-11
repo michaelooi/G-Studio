@@ -31,6 +31,8 @@ https://m3u8.hmrvideo.com/play/3d3a749cbf8e472ba9f067c81fd51436.m3u8
 https://svip.high21-playback.com/20241129/40285_ed081458/index.m3u8
 #EXTINF:-1 tvg-name="红色一号:冬日行动" tvg-logo="https://www.feitu.tv/upload/vod/20241202-1/f53697d3637c25e23764733d23587f1d.webp" group-title="动作片", 红色一号:冬日行动
 https://svip.high24-playback.com/20241202/12146_2a35b65d/index.m3u8
+#EXTINF:-1 tvg-name="志愿军:雄兵出击" tvg-logo="" group-title="战争片", 志愿军:雄兵出击
+https://yzzy1.play-cdn20.com/20231201/6580_7c49d136/index.m3u8
 
 #EXTINF:-1 tvg-name="我是刑警" tvg-logo="" group-title="我是刑警", 13
 https://svip.high22-playback.com/20241202/18411_9b8d5acc/index.m3u8
