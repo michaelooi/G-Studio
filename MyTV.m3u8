@@ -72,6 +72,10 @@ https://svip.high22-playback.com/20241209/18890_7ab4be35/index.m3u8
 https://svip.high22-playback.com/20241210/18934_79cb2af1/index.m3u8
 #EXTINF:-1 tvg-name="我是刑警" tvg-logo="" group-title="我是刑警", 29
 https://svip.high22-playback.com/20241210/18933_54263bc0/index.m3u8
+#EXTINF:-1 tvg-name="我是刑警" tvg-logo="" group-title="我是刑警", 30
+https://svip.high25-playback.com/20241211/14090_819f8f91/index.m3u8
+#EXTINF:-1 tvg-name="我是刑警" tvg-logo="" group-title="我是刑警", 31
+https://svip.high25-playback.com/20241211/14091_99837521/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://snzypic.com/upload/vod/20231024-1/e570526690b90a8dbe2b2df81c1a8169.jpg" group-title="法证先锋IV", 第01集
 https://m3u8.hmrvideo.com/play/3539a470a1564730a8c3f912cf088cd4.m3u8
@@ -133,10 +137,6 @@ https://m3u8.hmrvideo.com/play/b6dd1e0492eb4509bcf3f96be1427bad.m3u8
 https://m3u8.hmrvideo.com/play/7c968108f2af4eefbec6de861524ecd2.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://snzypic.com/upload/vod/20231024-1/e570526690b90a8dbe2b2df81c1a8169.jpg" group-title="法证先锋IV", 第30集
 https://m3u8.hmrvideo.com/play/6f4c0044d6134b13a7a0334c7877fe36.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://snzypic.com/upload/vod/20231024-1/e570526690b90a8dbe2b2df81c1a8169.jpg" group-title="法证先锋IV", 第31集
-https://svip.high25-playback.com/20241211/14090_819f8f91/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://snzypic.com/upload/vod/20231024-1/e570526690b90a8dbe2b2df81c1a8169.jpg" group-title="法证先锋IV", 第32集
-https://svip.high25-playback.com/20241211/14091_99837521/index.m3u8
 
 #EXTINF:11 tvg-name="" tvg-logo="https://vcover-vt-pic.puui.qpic.cn/vcover_vt_pic/0/mzc00200qhxxetd1715776356823/0" group-title="青春环游记[第五季]", 20240518
 https://m3u8.hmrvideo.com/play/8f2f0d61e6c44208a01d7ad4fc9fcdf8.m3u8
