@@ -11,8 +11,8 @@ https://svip.high21-playback.com/20241107/39842_f3784dd5/index.m3u8
 https://svip.high21-playback.com/20241019/39495_060f2eb8/index.m3u8
 #EXTINF:-1 tvg-name="幽灵行星" tvg-logo="https://snzypic.vip/upload/vod/20241019-1/04ca61ee1ca8651f8104e02cb2bc1f7f.jpg" group-title="动作片", 幽灵行星
 https://svip.high21-playback.com/20241029/39669_b855e785/index.m3u8
-#EXTINF:-1 tvg-name="749局TC" tvg-logo="https://assets.heimuer.tv/imgs/2024/10/09/c12aca0491994d498c92e7aada4cbe83.jpg" group-title="动作片", 749局TC
-https://m3u8.hmrvideo.com/play/7a3ee9247eac4ccd9d7498b1f2dfb0ef.m3u8
+#EXTINF:-1 tvg-name="749局" tvg-logo="https://assets.heimuer.tv/imgs/2024/10/09/c12aca0491994d498c92e7aada4cbe83.jpg" group-title="动作片", 749局
+https://v6.tlkqc.com/wjv6/202412/05/8zufF1SHUF78/video/index.m3u8
 #EXTINF:-1 tvg-name="熊猫计划TC" tvg-logo="https://snzypic.vip/upload/vod/20241020-1/a69dc06592395fa5cec22eb56c92132e.jpg" group-title="动作片", 熊猫计划TC
 https://v4.qrssv.com/202410/20/DuxQEPH6qL20/video/index.m3u8
 #EXTINF:-1 tvg-name="湄公河水鬼" tvg-logo="https://www.feitu.tv/upload/vod/20241118-1/738f5e6a57b19a76a2d9c8b37747fb80.webp" group-title="恐怖片", 湄公河水鬼
@@ -33,8 +33,8 @@ https://svip.high21-playback.com/20241129/40285_ed081458/index.m3u8
 https://svip.high24-playback.com/20241202/12146_2a35b65d/index.m3u8
 #EXTINF:-1 tvg-name="志愿军:雄兵出击" tvg-logo="" group-title="战争片", 志愿军:雄兵出击
 https://yzzy1.play-cdn20.com/20231201/6580_7c49d136/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="动作片", 绝地逃亡
-https://svip.high21-playback.com/20241209/40470_5e1fe961/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="动作片", 枪手2024
+https://v11.tlkqc.com/wjv11/202412/07/9Mkf17m6je83/video/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="动作片", 绝地逃亡2024
 https://bfikuncdn.com/20241210/joWg8xky/index.m3u8
 
@@ -133,6 +133,10 @@ https://m3u8.hmrvideo.com/play/b6dd1e0492eb4509bcf3f96be1427bad.m3u8
 https://m3u8.hmrvideo.com/play/7c968108f2af4eefbec6de861524ecd2.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://snzypic.com/upload/vod/20231024-1/e570526690b90a8dbe2b2df81c1a8169.jpg" group-title="法证先锋IV", 第30集
 https://m3u8.hmrvideo.com/play/6f4c0044d6134b13a7a0334c7877fe36.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://snzypic.com/upload/vod/20231024-1/e570526690b90a8dbe2b2df81c1a8169.jpg" group-title="法证先锋IV", 第31集
+https://svip.high25-playback.com/20241211/14090_819f8f91/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://snzypic.com/upload/vod/20231024-1/e570526690b90a8dbe2b2df81c1a8169.jpg" group-title="法证先锋IV", 第32集
+https://svip.high25-playback.com/20241211/14091_99837521/index.m3u8
 
 #EXTINF:11 tvg-name="" tvg-logo="https://vcover-vt-pic.puui.qpic.cn/vcover_vt_pic/0/mzc00200qhxxetd1715776356823/0" group-title="青春环游记[第五季]", 20240518
 https://m3u8.hmrvideo.com/play/8f2f0d61e6c44208a01d7ad4fc9fcdf8.m3u8
