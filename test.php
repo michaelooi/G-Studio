@@ -6,7 +6,7 @@
 $ch = curl_init();
 
 // 设置cURL选项
-curl_setopt($ch, CURLOPT_URL, "https://example.com"); // 目标URL
+curl_setopt($ch, CURLOPT_URL, "https://www.feitu.tv/watch/576787-3-31/"); // 目标URL
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 
 // 执行cURL会话并获取网页内容
@@ -31,7 +31,7 @@ libxml_clear_errors();
 $xpath = new DOMXPath($dom);
 
 // 使用XPath查询特定链接
-$query = "//a[contains(@href, 'specific-link-part')]"; // 修改为你需要的链接部分
+$query = "//a[contains(@href, 'https://svip.high22-playback.com/20241230/20204_3d9df0e2/index.m3u8')]"; // 修改为你需要的链接部分
 $nodes = $xpath->query($query);
 
 // 输出匹配的链接
