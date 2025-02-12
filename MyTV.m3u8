@@ -21,16 +21,12 @@ https://v.cdnlz12.com/20241028/17489_82691100/index.m3u8
 https://svip.high21-playback.com/20241109/39896_14b7344c/index.m3u8
 #EXTINF:-1 tvg-name="逃生舱" tvg-logo="https://pic1.imgyzzy.com/upload/vod/2024-08-14/202408141723593877.jpg" group-title="科幻片", 逃生舱
 https://svip.high21-playback.com/20240814/38212_7fec748a/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="科幻片", 异形之无路可退
-https://svip.high21-playback.com/20250119/41144_d339edd4/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="科幻片", 寂静岛之异兽
 https://svip.high21-playback.com/20241227/40776_ec536e9b/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="蜡笔小新:新次元!超能力大决战" tvg-logo="" group-title="动画片", 蜡笔小新:新次元!超能力大决战
+#EXTINF:-1 tvg-name="蜡笔小新:新次元!超能力大决战" tvg-logo="" group-title="动画电影", 蜡笔小新:新次元!超能力大决战
 https://v11.tlkqc.com/wjv11/202403/07/v8gX1GRSv33/video/index.m3u8
-#EXTINF:-1 tvg-name="哆啦A梦:大雄的地球交响乐" tvg-logo="" group-title="动画片", 哆啦A梦:大雄的地球交响乐
+#EXTINF:-1 tvg-name="哆啦A梦:大雄的地球交响乐" tvg-logo="" group-title="动画电影", 哆啦A梦:大雄的地球交响乐
 https://m3u8.hmrvideo.com/play/3d3a749cbf8e472ba9f067c81fd51436.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="动作片", 破局2025HD国语
-https://vip.ffzy-video.com/20250102/9613_93573dae/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="恐怖片", 隐藏的面孔2024
 https://svip.high21-playback.com/20250108/40924_ebb9e374/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧情片", 误杀3-TC
@@ -41,8 +37,35 @@ https://vip.ffzy-video.com/20250203/11470_139ae036/index.m3u8
 https://v6.tlkqc.com/wjv6/202311/09/tbbL0mDa981/video/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧情片", 恶业2024
 https://v6.tlkqc.com/wjv6/202412/20/K2biZ8V3Eu78/video/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="剧情片", 误判2024
-https://svip.high21-playback.com/20250131/41343_960a3bd8/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="动画电影", 哪吒之魔童降世
+https://yzzy.play-cdn17.com/20230719/11644_b77a553f/index.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="异人之下之决战-碧游村", 01
+https://svip.high24-playback.com/20250118/16461_569fa885/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="异人之下之决战-碧游村", 02
+https://svip.high24-playback.com/20250118/16460_0d0725d8/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="异人之下之决战-碧游村", 03
+https://svip.high24-playback.com/20250118/16462_396b70f3/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="异人之下之决战-碧游村", 04
+https://svip.high24-playback.com/20250119/16537_c4e81bd7/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="异人之下之决战-碧游村", 05
+https://svip.high24-playback.com/20250119/16536_87859471/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="异人之下之决战-碧游村", 06
+https://svip.yyzy-play.vip/20250120/21568_9511a13f/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="异人之下之决战-碧游村", 07
+https://svip.high25-playback.com/20250121/18070_d6a45620/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="异人之下之决战-碧游村", 08
+https://svip.yyzy-play.vip/20250122/21753_12b8a682/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="异人之下之决战-碧游村", 09
+https://svip.high24-playback.com/20250123/16749_ce93346f/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="异人之下之决战-碧游村", 10
+https://svip.high25-playback.com/20250124/18247_3b4d1b5c/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="异人之下之决战-碧游村", 11
+https://svip.high25-playback.com/20250124/18246_7733978e/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="异人之下之决战-碧游村", 12
+https://svip.high24-playback.com/20250124/16903_a2240ddc/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="异人之下之决战-碧游村", 13
+https://svip.high24-playback.com/20250124/16904_170d2b67/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="金庸武侠世界", 01
 https://svip.high21-playback.com/20240617/36457_c71588a9/2000k/hls/mixed.m3u8
@@ -161,19 +184,6 @@ https://svipsvip.ffzy-online5.com/20241225/36531_1d44a1f3/index.m3u8
 https://svipsvip.ffzy-online5.com/20241225/36532_e86d9bc1/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="猎罪图鉴2", 28
 https://svipsvip.ffzy-online5.com/20241225/36533_da027661/index.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="女子推理社第二季", 20250107上
-https://svipsvip.ffzyread1.com/20250107/34903_fb52538e/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="女子推理社第二季", 20250107下
-https://svipsvip.ffzyread1.com/20250107/34904_e8aec03e/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="女子推理社第二季", 20250113彩蛋
-https://svip.high22-playback.com/20250107/20610_420691d8/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="女子推理社第二季", 20250113彩蛋1
-https://svip.high22-playback.com/20250113/21038_e0fffbef/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="女子推理社第二季", 20250114上
-https://svip.high25-playback.com/20250114/17016_274dab0f/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="女子推理社第二季", 20250114下
-https://svip.high25-playback.com/20250114/17015_ff815176/index.m3u8
 
 #EXTINF:11 tvg-name="" tvg-logo="https://vcover-vt-pic.puui.qpic.cn/vcover_vt_pic/0/mzc00200qhxxetd1715776356823/0" group-title="青春环游记[第五季]", 20240518
 https://m3u8.hmrvideo.com/play/8f2f0d61e6c44208a01d7ad4fc9fcdf8.m3u8
