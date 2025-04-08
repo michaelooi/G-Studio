@@ -53,6 +53,13 @@ https://svip.high21-playback.com/20250403/42383_83de8995/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="弊家伙！我要去祓魔", 01
 https://v.cdnlz3.com/20250217/33841_8fe081a6/index.m3u8
 
+#EXTINF:-1 group-title="夺命提示粤语", 07
+https://vvip.high26-playback.com/20250325/2406_089a3280/index.m3u8
+#EXTINF:-1 group-title="夺命提示粤语", 08
+https://svip.high25-playback.com/20250326/22314_029e6969/index.m3u8
+#EXTINF:-1 group-title="夺命提示粤语", 09
+https://vvip.high26-playback.com/20250327/2577_2b6c2a2f/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="金庸武侠世界", 01
 https://svip.high21-playback.com/20240617/36457_c71588a9/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="金庸武侠世界", 02
