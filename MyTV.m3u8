@@ -63,6 +63,11 @@ https://vvip.high26-playback.com/20250327/2577_2b6c2a2f/index.m3u8
 https://vvip.high26-playback.com/20250328/2643_94fa5806/index.m3u8
 #EXTINF:-1 group-title="夺命提示粤语", 11
 https://svip.high25-playback.com/20250331/22636_92cff83e/index.m3u8
+#EXTINF:-1 group-title="夺命提示粤语", 12
+https://vvip.high26-playback.com/20250402/2985_275d7fb2/index.m3u8
+#EXTINF:-1 group-title="夺命提示粤语", 11
+#EXTINF:-1 group-title="夺命提示粤语", 13
+https://svip.high26-playback.com/20250403/3088_dc6a7e65/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="金庸武侠世界", 01
 https://svip.high21-playback.com/20240617/36457_c71588a9/2000k/hls/mixed.m3u8
