@@ -5,16 +5,12 @@
 
 # Playlist 1
 #EXTINF:10.0,
-https://svip.high21-playback.com/20240617/36457_c71588a9/2000k/hls/segment0.ts
-#EXTINF:10.0,
-https://svip.high21-playback.com/20240617/36457_c71588a9/2000k/hls/segment1.ts
+https://svip.high21-playback.com/20240617/36457_c71588a9/index.m3u8
 
 #EXT-X-DISCONTINUITY
 
 # Playlist 2
 #EXTINF:10.0,
-https://svip.high21-playback.com/20240617/36456_1477e2dd/2000k/hls/segment0.ts
-#EXTINF:10.0,
-https://svip.high21-playback.com/20240617/36456_1477e2dd/2000k/hls/segment1.ts
+https://svip.high21-playback.com/20240617/36456_1477e2dd/index.m3u8
 
 #EXT-X-ENDLIST
