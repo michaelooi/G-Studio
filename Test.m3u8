@@ -5,3 +5,5 @@ https://m3u8.hmrvideo.com/play/9d757798c61441baa7ff73d24fb47b9c.m3u8
 https://m3u8.hmrvideo.com/play/75f50898f67d4f5b885edb56c1a44780.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://snzypic.com/upload/vod/20240806-1/30bfeda9e54b9867471b843ff3af75e0.jpg" group-title="钢铁侠", 钢铁侠3
 https://m3u8.hmrvideo.com/play/6118fb35cb2348e692de938dda3f877c.m3u8
+#EXTINF:-1 group-title="Test", Combine Test
+http://michaelooi.github.io/G-Studio/combine_test.m3u8
