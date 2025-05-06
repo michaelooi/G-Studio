@@ -1,0 +1,20 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+
+# Playlist 1
+#EXTINF:10.0,
+https://svip.high21-playback.com/20240617/36457_c71588a9/2000k/hls/segment0.ts
+#EXTINF:10.0,
+https://svip.high21-playback.com/20240617/36457_c71588a9/2000k/hls/segment1.ts
+
+#EXT-X-DISCONTINUITY
+
+# Playlist 2
+#EXTINF:10.0,
+https://svip.high21-playback.com/20240617/36456_1477e2dd/2000k/hls/segment0.ts
+#EXTINF:10.0,
+https://svip.high21-playback.com/20240617/36456_1477e2dd/2000k/hls/segment1.ts
+
+#EXT-X-ENDLIST
