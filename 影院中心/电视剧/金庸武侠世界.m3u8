@@ -5,7 +5,7 @@
 #EXT-X-TARGETDURATION:7
 #EXT-X-DISCONTINUITY
 
-#EXTINF:-1 group-title="金庸武侠世界", 01
+#EXTINF:4.160, 01
 https://svip.high21-playback.com/20240617/36457_c71588a9/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="金庸武侠世界", 02
+#EXTINF:4.520, 02
 https://svip.high21-playback.com/20240617/36456_1477e2dd/2000k/hls/mixed.m3u8
