@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-MEDIA-SEQUENCE:0
+
+#EXTINF:-1, 01
+https://jkunbf.com/20250104/8JmlXpOM/index.m3u8
+#EXTINF:-1, 02
+https://jkunbf.com/20250105/2YJhlRiU/index.m3u8
