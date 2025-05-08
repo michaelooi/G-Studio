@@ -1,0 +1,29 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-MEDIA-SEQUENCE:0
+
+#EXTINF:11 tvg-name="" tvg-logo="https://vcover-vt-pic.puui.qpic.cn/vcover_vt_pic/0/mzc00200qhxxetd1715776356823/0" group-title="青春环游记[第五季]", 20240518
+https://m3u8.hmrvideo.com/play/8f2f0d61e6c44208a01d7ad4fc9fcdf8.m3u8
+#EXTINF:12 tvg-name="" tvg-logo="https://vcover-vt-pic.puui.qpic.cn/vcover_vt_pic/0/mzc00200qhxxetd1715776356823/0" group-title="青春环游记[第五季]", 20240525
+https://m3u8.hmrvideo.com/play/8f5bba2471f246d09a7dd6fb0953b17d.m3u8
+#EXTINF:13 tvg-name="" tvg-logo="https://vcover-vt-pic.puui.qpic.cn/vcover_vt_pic/0/mzc00200qhxxetd1715776356823/0" group-title="青春环游记[第五季]", 20240601
+https://m3u8.hmrvideo.com/play/a237b75aa65f4bd689018ee317bddae6.m3u8
+#EXTINF:14 tvg-name="" tvg-logo="https://vcover-vt-pic.puui.qpic.cn/vcover_vt_pic/0/mzc00200qhxxetd1715776356823/0" group-title="青春环游记[第五季]", 20240609
+https://m3u8.hmrvideo.com/play/2c636c903f364e54a4bcd6731a77aa94.m3u8
+#EXTINF:15 tvg-name="" tvg-logo="https://vcover-vt-pic.puui.qpic.cn/vcover_vt_pic/0/mzc00200qhxxetd1715776356823/0" group-title="青春环游记[第五季]", 20240615
+https://m3u8.hmrvideo.com/play/00aa63bdab714c82b006841fc38cf49a.m3u8
+#EXTINF:16 tvg-name="" tvg-logo="https://vcover-vt-pic.puui.qpic.cn/vcover_vt_pic/0/mzc00200qhxxetd1715776356823/0" group-title="青春环游记[第五季]", 20240622
+https://m3u8.hmrvideo.com/play/09651f2aa037435ebb1fb4dabf49655e.m3u8
+#EXTINF:17 tvg-name="" tvg-logo="https://vcover-vt-pic.puui.qpic.cn/vcover_vt_pic/0/mzc00200qhxxetd1715776356823/0" group-title="青春环游记[第五季]", 20240629
+https://m3u8.hmrvideo.com/play/1652452c7c964afaa97fbb65ae0a9c1b.m3u8
+#EXTINF:18 tvg-name="" tvg-logo="https://vcover-vt-pic.puui.qpic.cn/vcover_vt_pic/0/mzc00200qhxxetd1715776356823/0" group-title="青春环游记[第五季]", 20240706
+https://m3u8.hmrvideo.com/play/b73510edf1b3415faa0c85c1e031ac87.m3u8
+#EXTINF:19 tvg-name="" tvg-logo="https://vcover-vt-pic.puui.qpic.cn/vcover_vt_pic/0/mzc00200qhxxetd1715776356823/0" group-title="青春环游记[第五季]", 20240713
+https://m3u8.hmrvideo.com/play/38585f0020144352a76509006a652bcf.m3u8
+#EXTINF:20 tvg-name="" tvg-logo="https://vcover-vt-pic.puui.qpic.cn/vcover_vt_pic/0/mzc00200qhxxetd1715776356823/0" group-title="青春环游记[第五季]", 20240720
+https://m3u8.hmrvideo.com/play/371bfb8f205e4883ad71b245d3285811.m3u8
+#EXTINF:21 tvg-name="" tvg-logo="https://vcover-vt-pic.puui.qpic.cn/vcover_vt_pic/0/mzc00200qhxxetd1715776356823/0" group-title="青春环游记[第五季]", 20240727
+https://m3u8.hmrvideo.com/play/9f7dc1f109b14be799ff29ab0a8fc760.m3u8
+#EXTINF:22 tvg-name="" tvg-logo="https://vcover-vt-pic.puui.qpic.cn/vcover_vt_pic/0/mzc00200qhxxetd1715776356823/0" group-title="青春环游记[第五季]", 20240803
+https://m3u8.hmrvideo.com/play/47a1eeb5646c4f078ac3e0320eff4e11.m3u8
