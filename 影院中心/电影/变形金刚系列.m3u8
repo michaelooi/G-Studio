@@ -3,17 +3,17 @@
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXT-X-MEDIA-SEQUENCE:0
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://snzypic.vip/upload/vod/20240819-1/5dce44e855f521369a296599db1e4bf7.jpg" group-title="变形金刚", 变形金刚1
+#EXTINF:-1 tvg-name="" tvg-logo="https://snzypic.vip/upload/vod/20240819-1/5dce44e855f521369a296599db1e4bf7.jpg" group-title="变形金刚系列", 变形金刚1
 https://m3u8.hmrvideo.com/play/87aac996a52d471baa956a3c88649474.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://snzypic.vip/upload/vod/20230901-1/01a17c8c142b304bde0c7ac1c287863e.jpg" group-title="变形金刚", 变形金刚2
+#EXTINF:-1 tvg-name="" tvg-logo="https://snzypic.vip/upload/vod/20230901-1/01a17c8c142b304bde0c7ac1c287863e.jpg" group-title="变形金刚系列", 变形金刚2
 https://m3u8.hmrvideo.com/play/c222e194ce5a42ecab87965efc650821.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://snzypic.com/upload/vod/20230901-1/d6a2f1a097fb3f87a7961e1b7c1adb97.jpg" group-title="变形金刚", 变形金刚3
+#EXTINF:-1 tvg-name="" tvg-logo="https://snzypic.com/upload/vod/20230901-1/d6a2f1a097fb3f87a7961e1b7c1adb97.jpg" group-title="变形金刚系列", 变形金刚3
 https://yzzy.play-cdn2.com/20220429/16886_bd462507/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://snzypic.vip/upload/vod/20240819-1/e72cec5c60ad8ab85cb58f3a8f8d8970.jpg" group-title="变形金刚", 变形金刚4:绝迹重生
+#EXTINF:-1 tvg-name="" tvg-logo="https://snzypic.vip/upload/vod/20240819-1/e72cec5c60ad8ab85cb58f3a8f8d8970.jpg" group-title="变形金刚系列", 变形金刚4:绝迹重生
 https://m3u8.hmrvideo.com/play/05f2b5c61ccd46429341f10f23a5c684.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://snzypic.vip/upload/vod/20230901-1/21791faa726017e114c437123fcbaada.jpg" group-title="变形金刚", 变形金刚5:最后的骑士
+#EXTINF:-1 tvg-name="" tvg-logo="https://snzypic.vip/upload/vod/20230901-1/21791faa726017e114c437123fcbaada.jpg" group-title="变形金刚系列", 变形金刚5:最后的骑士
 https://m3u8.hmrvideo.com/play/4d1772c58a3243c1ad5b73f25f2e01b6.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://snzypic.com/upload/vod/20230901-1/a73762756268b745b2e7af77deaa7f93.webp" group-title="变形金刚", 变形金刚6:超能勇士崛起
+#EXTINF:-1 tvg-name="" tvg-logo="https://snzypic.com/upload/vod/20230901-1/a73762756268b745b2e7af77deaa7f93.webp" group-title="变形金刚系列", 变形金刚6:超能勇士崛起
 https://m3u8.hmrvideo.com/play/43efdf1dd52a4b1aa4a8dad352ee55fb.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://snzypic.com/upload/vod/20230901-1/a1551efe86e9112330e5aa702c1a4cfc.jpg" group-title="变形金刚", 变形金刚:大黄蜂
+#EXTINF:-1 tvg-name="" tvg-logo="https://snzypic.com/upload/vod/20230901-1/a1551efe86e9112330e5aa702c1a4cfc.jpg" group-title="变形金刚系列", 变形金刚:大黄蜂
 https://m3u8.hmrvideo.com/play/d0b4f55c161140c499bd7ee7f9022959.m3u8
