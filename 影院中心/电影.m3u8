@@ -1,0 +1,103 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-MEDIA-SEQUENCE:0
+
+#EXTINF:-1 group-title="剧情片", 金钱堡垒HD国语
+https://vip.ffzy-video.com/20250203/11470_139ae036/index.m3u8
+#EXTINF:-1 group-title="剧情片", 追龙番外篇之龙争虎斗粤语
+https://v6.tlkqc.com/wjv6/202311/09/tbbL0mDa981/video/index.m3u8
+#EXTINF:-1 group-title="剧情片", 恶业2024
+https://v6.tlkqc.com/wjv6/202412/20/K2biZ8V3Eu78/video/index.m3u8
+#EXTINF:-1 group-title="剧情片", 囧妈
+https://yzzy.play-cdn5.com/20220530/21109_36a29446/index.m3u8
+#EXTINF:-1 group-title="剧情片", 鬼们之蝴蝶大厦
+https://v11.tlkqc.com/wjv11/202505/05/VJaej3bLkh83/video/index.m3u8
+
+#EXTINF:-1 group-title="动作片", 龙骨遗冢
+https://m3u8.hmrvideo.com/play/230dc2fa100f4168b5e13875b6f7d46f.m3u8
+#EXTINF:-1 group-title="动作片", 猩球崛起：新世界
+https://svip.high22-playback.com/20240520/2309_3ad4bbad/index.m3u8
+#EXTINF:-1 group-title="动作片", 埃利亚斯
+https://svip.high21-playback.com/20241107/39842_f3784dd5/index.m3u8
+#EXTINF:-1 group-title="动作片", 幽灵行星
+https://svip.high21-playback.com/20241029/39669_b855e785/index.m3u8
+#EXTINF:-1 group-title="动作片", 749局
+https://v6.tlkqc.com/wjv6/202412/05/8zufF1SHUF78/video/index.m3u8
+#EXTINF:-1 group-title="动作片", 龙与地下城:盗贼荣耀
+https://v1.tlkqc.com/wjv1/202308/19/GhJjM6W8Zf2/video/index.m3u8
+#EXTINF:-1 group-title="动作片", 射雕英雄传:侠之大者
+https://v.lzcdn25.com/20250411/316_13484dd9/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="动作片", 怒水西流
+https://v.lzcdn25.com/20250509/515_6f827b33/index.m3u8
+#EXTINF:-1 group-title="动作片", 蛇女2025
+https://v10.tlkqc.com/wjv10/202505/09/WLnY325YzE82/video/index.m3u8
+#EXTINF:-1 group-title="动作片", 笑傲江湖2025
+https://svip.high21-playback.com/20250128/41289_e5c6cce8/index.m3u8
+#EXTINF:-1 group-title="动作片", 追龙番外篇之廉政大风暴
+https://svip.high21-playback.com/20250131/41344_ba05920e/index.m3u8
+#EXTINF:-1 group-title="动作片", 堕入深渊2025
+https://svip.high21-playback.com/20250124/41210_e833a137/index.m3u8
+#EXTINF:-1 group-title="动作片", 警报战
+https://svip.high21-playback.com/20250118/41123_5d20c790/index.m3u8
+#EXTINF:-1 group-title="动作片", 狙击精英:背水一战
+https://v10.tlkqc.com/wjv10/202501/23/zBTBPK83LS82/video/index.m3u8
+#EXTINF:-1 group-title="动作片", 神雕侠侣:问世间
+https://v12.tlkqc.com/wjv12/202501/22/G9j95LgyK784/video/index.m3u8
+#EXTINF:-1 group-title="动作片", 秦岭诡事之守护者
+https://svip.high21-playback.com/20250124/41228_f0d39a77/index.m3u8
+#EXTINF:-1 group-title="动作片", 青蛇缘起
+https://svip.high21-playback.com/20250212/41540_af5341aa/index.m3u8
+#EXTINF:-1 group-title="动作片", 谍徒迷局
+https://svip.high21-playback.com/20250214/41572_aa087b92/index.m3u8
+
+#EXTINF:-1 group-title="喜剧片", 我的世界大电影
+https://v6.qrssv.com/202504/06/wahKnHw2J719/video/index.m3u8
+
+#EXTINF:-1 group-title="科幻片", 逃生舱
+https://svip.high21-playback.com/20240814/38212_7fec748a/index.m3u8
+#EXTINF:-1 group-title="科幻片", 寂静岛之异兽
+https://svip.high21-playback.com/20241227/40776_ec536e9b/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="科幻片", 无人之地2024
+https://svip.high21-playback.com/20250315/42005_7d8ffa39/index.m3u8
+#EXTINF:-1 group-title="科幻片", 外星降落
+https://svip.high21-playback.com/20250314/41985_73163da2/index.m3u8
+#EXTINF:-1 group-title="科幻片", 千年虫2024
+https://svip.high21-playback.com/20250304/41819_d8623a03/index.m3u8
+#EXTINF:-1 group-title="科幻片", 蜘蛛夫人-超感觉醒
+
+#EXTINF:-1 group-title="恐怖片", 湄公河水鬼
+https://svip.high21-playback.com/20241118/40074_a545868b/index.m3u8
+#EXTINF:-1 group-title="恐怖片", 百烛游戏2
+https://v.cdnlz12.com/20241028/17489_82691100/index.m3u8
+#EXTINF:-1 group-title="恐怖片", 看到灵魂的那只眼.师公
+https://svip.high21-playback.com/20241109/39896_14b7344c/index.m3u8
+#EXTINF:-1 group-title="恐怖片", 隐藏的面孔2024
+https://svip.high21-playback.com/20250108/40924_ebb9e374/2000k/hls/mixed.m3u8
+
+#EXTINF:-1 group-title="战争片", 深山狙击
+https://svip.high21-playback.com/20250303/41816_37b0e94b/index.m3u8
+
+#EXTINF:-1 group-title="动画电影", 蜡笔小新:新次元!超能力大决战
+https://v11.tlkqc.com/wjv11/202403/07/v8gX1GRSv33/video/index.m3u8
+#EXTINF:-1 group-title="动画电影", 蜡笔小新:我们的恐龙日记
+https://svip.high21-playback.com/20250227/41765_07ac464e/index.m3u8
+#EXTINF:-1 group-title="动画电影", 哆啦A梦:大雄的地球交响乐
+https://m3u8.hmrvideo.com/play/3d3a749cbf8e472ba9f067c81fd51436.m3u8
+#EXTINF:-1 group-title="动画电影", 哪吒之魔童降世
+https://yzzy.play-cdn17.com/20230719/11644_b77a553f/index.m3u8
+https://yzzy.play-cdn21.com/20240315/9646_b4328d07/index.m3u8
+#EXTINF:-1 group-title="动画电影", 熊出没·重启未来
+https://v.lzcdn25.com/20250501/450_b844f325/index.m3u8
+#EXTINF:-1 group-title="动画电影", 海洋奇缘2
+https://svip.high21-playback.com/20250128/41291_30518b81/index.m3u8
+#EXTINF:-1 group-title="动画电影", 海洋奇缘
+https://svip.high24-playback.com/20250131/17277_d8876ed9/index.m3u8
+#EXTINF:-1 group-title="动画电影", 神偷奶爸4
+https://svip.high21-playback.com/20240806/38045_a6fafdc0/index.m3u8
+#EXTINF:-1 group-title="动画电影", 功夫熊猫4
+https://yzzy.play-cdn21.com/20240410/29373_4da7f681/index.m3u8
+#EXTINF:-1 group-title="动画电影", 荒野机器人TSHD
+https://svip.high21-playback.com/20240930/39111_a541d26e/index.m3u8
+#EXTINF:-1 group-title="动画电影", 哆啦A梦:大雄与天空的理想乡
+https://yzzy1.play-cdn16.com/20230821/18177_11a7c33a/index.m3u8
