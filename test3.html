@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Copy Multiple Links</title>
+</head>
+<body>
+
+  <div>
+    <a href="https://example.com/1" id="link1" target="_blank">https://example.com/1</a>
+    <button onclick="copyLink('link1')">Copy</button>
+  </div>
+
+  <div>
+    <a href="https://example.com/2" id="link2" target="_blank">https://example.com/2</a>
+    <button onclick="copyLink('link2')">Copy</button>
+  </div>
+
+  <div>
+    <a href="https://example.com/3" id="link3" target="_blank">https://example.com/3</a>
+    <button onclick="copyLink('link3')">Copy</button>
+  </div>
+
+  <div>
+    <a href="https://example.com/4" id="link4" target="_blank">https://example.com/4</a>
+    <button onclick="copyLink('link4')">Copy</button>
+  </div>
+
+  <div>
+    <a href="https://example.com/5" id="link5" target="_blank">https://example.com/5</a>
+    <button onclick="copyLink('link5')">Copy</button>
+  </div>
+
+  <p id="copyMessage" style="color: green;"></p>
+
+  <script>
+    function copyLink(linkId) {
+      const link = document.getElementById(linkId).href;
+
+      navigator.clipboard.writeText(link).then(() => {
+        document.getElementById("copyMessage").textContent = "Link copied: " + link;
+      }).catch(err => {
+        document.getElementById("copyMessage").textContent = "Failed to copy link.";
+      });
+    }
+  </script>
+
+</body>
+</html>
