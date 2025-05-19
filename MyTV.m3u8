@@ -88,13 +88,8 @@ https://svip.high21-playback.com/20250212/41540_af5341aa/index.m3u8
 https://svip.high21-playback.com/20250214/41572_aa087b92/index.m3u8
 #EXTINF:-1 group-title="剧情片", 鬼们之蝴蝶大厦
 https://v11.tlkqc.com/wjv11/202505/05/VJaej3bLkh83/video/index.m3u8
-#EXTINF:-1 group-title="战争片", 马来亚三日
-https://yzzy1.play-cdn20.com/20231023/2123_3e718eb8/index.m3u8
-#EXTINF:-1 group-title="动画电影", 熊出没·重启未来TS
-https://svip.high21-playback.com/20250205/41425_345511c7/index.m3u8
+#EXTINF:-1 group-title="动画电影", 熊出没·重启未来
 https://v.lzcdn25.com/20250501/450_b844f325/index.m3u8
-#EXTINF:-1 group-title="动画电影", 熊出没·重启未来预告片
-https://v12.tlkqc.com/wjv12/202501/01/ptWnDpZcX584/video/index.m3u8
 #EXTINF:-1 group-title="动画电影", 海洋奇缘2
 https://svip.high21-playback.com/20250128/41291_30518b81/index.m3u8
 #EXTINF:-1 group-title="动画电影", 海洋奇缘
@@ -107,67 +102,6 @@ https://yzzy.play-cdn21.com/20240410/29373_4da7f681/index.m3u8
 https://svip.high21-playback.com/20240930/39111_a541d26e/index.m3u8
 #EXTINF:-1 group-title="动画电影", 哆啦A梦:大雄与天空的理想乡
 https://yzzy1.play-cdn16.com/20230821/18177_11a7c33a/index.m3u8
-
-#EXTINF:-1 group-title="金庸武侠世界", 01
-https://svip.high21-playback.com/20240617/36457_c71588a9/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="金庸武侠世界", 02
-https://svip.high21-playback.com/20240617/36456_1477e2dd/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="金庸武侠世界", 03
-https://svip.high21-playback.com/20240617/36455_164bcef2/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="金庸武侠世界", 04
-https://svip.high22-playback.com/20240617/3620_d3a85790/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="金庸武侠世界", 05
-https://svip.high23-playback.com/20240618/14661_609ac518/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="金庸武侠世界", 06
-https://svip.high22-playback.com/20240618/3645_5ec2c1f4/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="金庸武侠世界", 07
-https://svip.high23-playback.com/20240619/14696_f4602599/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="金庸武侠世界", 08
-https://svip.high23-playback.com/20240619/14695_49e711a0/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="金庸武侠世界", 09
-https://svip.high1-playback.com/20240620/51172_95e6184c/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="金庸武侠世界", 10
-https://svip.high1-playback.com/20240620/51171_d8d06a25/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="金庸武侠世界", 11
-https://svip.high23-playback.com/20240621/14748_504dc967/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="金庸武侠世界", 12
-https://svip.high22-playback.com/20240622/3897_8124f0cc/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="金庸武侠世界", 13
-https://svip.high1-playback.com/20240623/51373_fcc761e0/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="金庸武侠世界", 14
-https://svip.high22-playback.com/20240623/3945_4b5a0413/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="金庸武侠世界", 15
-https://svip.high22-playback.com/20240624/3983_06a70e11/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="金庸武侠世界", 16
-https://svip.high22-playback.com/20240624/3982_dab2bf99/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="金庸武侠世界", 17
-https://svip.high23-playback.com/20240625/14973_cf758e10/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="金庸武侠世界", 18
-https://svip.high23-playback.com/20240625/14972_ab0a2c52/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="金庸武侠世界", 19
-https://svip.high21-playback.com/20240626/36528_dad80026/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="金庸武侠世界", 20
-https://svip.high21-playback.com/20240626/36527_726d98f5/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="金庸武侠世界", 21
-https://svip.high22-playback.com/20240627/4171_5f6ae52b/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="金庸武侠世界", 22
-https://svip.high22-playback.com/20240627/4169_a98da1c7/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="金庸武侠世界", 23
-https://svip.high23-playback.com/20240628/15169_7003079b/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="金庸武侠世界", 24
-https://svip.high24-playback.com/20240629/335_f7a2c932/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="金庸武侠世界", 25
-https://svip.high21-playback.com/20240630/36787_b688acea/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="金庸武侠世界", 26
-https://svip.high22-playback.com/20240630/4322_4bb41227/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="金庸武侠世界", 27
-https://svip.high22-playback.com/20240630/4323_960af68e/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="金庸武侠世界", 28
-https://svip.high24-playback.com/20240630/443_de0440c4/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="金庸武侠世界", 29
-https://svip.high24-playback.com/20240630/442_ac5cee64/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="金庸武侠世界", 30
-https://svip.high24-playback.com/20240630/441_3c0b7192/2000k/hls/mixed.m3u8
 
 #EXTINF:11 tvg-name="" tvg-logo="https://vcover-vt-pic.puui.qpic.cn/vcover_vt_pic/0/mzc00200qhxxetd1715776356823/0" group-title="青春环游记[第五季]", 20240518
 https://m3u8.hmrvideo.com/play/8f2f0d61e6c44208a01d7ad4fc9fcdf8.m3u8
