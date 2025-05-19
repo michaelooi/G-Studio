@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Copy Link Example</title>
+</head>
+<body>
+
+  <!-- The link you want to copy -->
+  <a href="https://example.com" id="myLink" target="_blank">https://example.com</a>
+
+  <!-- Button to trigger copy -->
+  <button onclick="copyLink()">Copy Link</button>
+
+  <!-- Feedback message -->
+  <p id="copyMessage" style="color: green;"></p>
+
+  <script>
+    function copyLink() {
+      const link = document.getElementById("myLink").href;
+
+      navigator.clipboard.writeText(link).then(() => {
+        document.getElementById("copyMessage").textContent = "Link copied to clipboard!";
+      }).catch(err => {
+        document.getElementById("copyMessage").textContent = "Failed to copy link.";
+      });
+    }
+  </script>
+
+</body>
+</html>
