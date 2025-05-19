@@ -54,8 +54,17 @@ https://svip.high21-playback.com/20250214/41572_aa087b92/index.m3u8
 #EXTINF:-1 group-title="喜剧片", 我的世界大电影
 https://v6.qrssv.com/202504/06/wahKnHw2J719/video/index.m3u8
 
-#EXTINF:-1 group-title="科幻片", 空
-https://
+#EXTINF:-1 group-title="科幻片", 逃生舱
+https://svip.high21-playback.com/20240814/38212_7fec748a/index.m3u8
+#EXTINF:-1 group-title="科幻片", 寂静岛之异兽
+https://svip.high21-playback.com/20241227/40776_ec536e9b/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="科幻片", 无人之地2024
+https://svip.high21-playback.com/20250315/42005_7d8ffa39/index.m3u8
+#EXTINF:-1 group-title="科幻片", 外星降落
+https://svip.high21-playback.com/20250314/41985_73163da2/index.m3u8
+#EXTINF:-1 group-title="科幻片", 千年虫2024
+https://svip.high21-playback.com/20250304/41819_d8623a03/index.m3u8
+#EXTINF:-1 group-title="科幻片", 蜘蛛夫人-超感觉醒
 
 #EXTINF:-1 group-title="恐怖片", 湄公河水鬼
 https://svip.high21-playback.com/20241118/40074_a545868b/index.m3u8
@@ -65,3 +74,6 @@ https://v.cdnlz12.com/20241028/17489_82691100/index.m3u8
 https://svip.high21-playback.com/20241109/39896_14b7344c/index.m3u8
 #EXTINF:-1 group-title="恐怖片", 隐藏的面孔2024
 https://svip.high21-playback.com/20250108/40924_ebb9e374/2000k/hls/mixed.m3u8
+
+#EXTINF:-1 group-title="战争片", 深山狙击
+https://svip.high21-playback.com/20250303/41816_37b0e94b/index.m3u8
