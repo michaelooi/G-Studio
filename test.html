@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Copy Link Example</title>
+</head>
+<body>
+
+  <!-- The link you want to copy -->
+  <input type="text" value="https://example.com" id="myLink" readonly style="width: 300px;">
+
+  <!-- Button to trigger copy -->
+  <button onclick="copyLink()">Copy Link</button>
+
+  <!-- Feedback message -->
+  <p id="copyMessage" style="color: green;"></p>
+
+  <script>
+    function copyLink() {
+      const linkInput = document.getElementById("myLink");
+      linkInput.select();
+      linkInput.setSelectionRange(0, 99999); // For mobile devices
+
+      // Copy the text inside the input
+      navigator.clipboard.writeText(linkInput.value).then(() => {
+        document.getElementById("copyMessage").textContent = "Link copied to clipboard!";
+      }).catch(err => {
+        document.getElementById("copyMessage").textContent = "Failed to copy link.";
+      });
+    }
+  </script>
+
+</body>
+</html>
