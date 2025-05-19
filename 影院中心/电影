@@ -1,0 +1,57 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-MEDIA-SEQUENCE:0
+
+#EXTINF:-1 group-title="剧情片", 金钱堡垒HD国语
+https://vip.ffzy-video.com/20250203/11470_139ae036/index.m3u8
+#EXTINF:-1 group-title="剧情片", 追龙番外篇之龙争虎斗粤语
+https://v6.tlkqc.com/wjv6/202311/09/tbbL0mDa981/video/index.m3u8
+#EXTINF:-1 group-title="剧情片", 恶业2024
+https://v6.tlkqc.com/wjv6/202412/20/K2biZ8V3Eu78/video/index.m3u8
+#EXTINF:-1 group-title="剧情片", 囧妈
+https://yzzy.play-cdn5.com/20220530/21109_36a29446/index.m3u8
+#EXTINF:-1 group-title="剧情片", 鬼们之蝴蝶大厦
+https://v11.tlkqc.com/wjv11/202505/05/VJaej3bLkh83/video/index.m3u8
+
+#EXTINF:-1 group-title="动作片", 龙骨遗冢
+https://m3u8.hmrvideo.com/play/230dc2fa100f4168b5e13875b6f7d46f.m3u8
+#EXTINF:-1 group-title="动作片", 猩球崛起：新世界
+https://svip.high22-playback.com/20240520/2309_3ad4bbad/index.m3u8
+#EXTINF:-1 group-title="动作片", 埃利亚斯
+https://svip.high21-playback.com/20241107/39842_f3784dd5/index.m3u8
+#EXTINF:-1 group-title="动作片", 幽灵行星
+https://svip.high21-playback.com/20241029/39669_b855e785/index.m3u8
+#EXTINF:-1 group-title="动作片", 749局
+https://v6.tlkqc.com/wjv6/202412/05/8zufF1SHUF78/video/index.m3u8
+#EXTINF:-1 group-title="动作片", 龙与地下城:盗贼荣耀
+https://v1.tlkqc.com/wjv1/202308/19/GhJjM6W8Zf2/video/index.m3u8
+#EXTINF:-1 group-title="动作片", 射雕英雄传:侠之大者
+https://v.lzcdn25.com/20250411/316_13484dd9/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="动作片", 怒水西流
+https://v.lzcdn25.com/20250509/515_6f827b33/index.m3u8
+#EXTINF:-1 group-title="动作片", 蛇女2025
+https://v10.tlkqc.com/wjv10/202505/09/WLnY325YzE82/video/index.m3u8
+#EXTINF:-1 group-title="动作片", 笑傲江湖2025
+https://svip.high21-playback.com/20250128/41289_e5c6cce8/index.m3u8
+#EXTINF:-1 group-title="动作片", 追龙番外篇之廉政大风暴
+https://svip.high21-playback.com/20250131/41344_ba05920e/index.m3u8
+#EXTINF:-1 group-title="动作片", 堕入深渊2025
+https://svip.high21-playback.com/20250124/41210_e833a137/index.m3u8
+#EXTINF:-1 group-title="动作片", 警报战
+https://svip.high21-playback.com/20250118/41123_5d20c790/index.m3u8
+#EXTINF:-1 group-title="动作片", 狙击精英:背水一战
+https://v10.tlkqc.com/wjv10/202501/23/zBTBPK83LS82/video/index.m3u8
+#EXTINF:-1 group-title="动作片", 神雕侠侣:问世间
+https://v12.tlkqc.com/wjv12/202501/22/G9j95LgyK784/video/index.m3u8
+#EXTINF:-1 group-title="动作片", 秦岭诡事之守护者
+https://svip.high21-playback.com/20250124/41228_f0d39a77/index.m3u8
+#EXTINF:-1 group-title="动作片", 青蛇缘起
+https://svip.high21-playback.com/20250212/41540_af5341aa/index.m3u8
+#EXTINF:-1 group-title="动作片", 谍徒迷局
+https://svip.high21-playback.com/20250214/41572_aa087b92/index.m3u8
+
+#EXTINF:-1 group-title="喜剧片", 我的世界大电影
+https://v6.qrssv.com/202504/06/wahKnHw2J719/video/index.m3u8
+
+#EXTINF:-1 group-title="科幻片",
