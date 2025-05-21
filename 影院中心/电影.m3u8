@@ -13,6 +13,8 @@ https://v6.tlkqc.com/wjv6/202412/20/K2biZ8V3Eu78/video/index.m3u8
 https://yzzy.play-cdn5.com/20220530/21109_36a29446/index.m3u8
 #EXTINF:-1 group-title="剧情片", 鬼们之蝴蝶大厦
 https://v11.tlkqc.com/wjv11/202505/05/VJaej3bLkh83/video/index.m3u8
+#EXTINF:-1 group-title="剧情片", 不说话的爱
+https://v10.tlkqc.com/wjv10/202505/16/FJg48jBced82/video/1000k_720/hls/index.m3u8
 
 #EXTINF:-1 group-title="动作片", 龙骨遗冢
 https://m3u8.hmrvideo.com/play/230dc2fa100f4168b5e13875b6f7d46f.m3u8
@@ -50,6 +52,10 @@ https://svip.high21-playback.com/20250124/41228_f0d39a77/index.m3u8
 https://svip.high21-playback.com/20250212/41540_af5341aa/index.m3u8
 #EXTINF:-1 group-title="动作片", 谍徒迷局
 https://svip.high21-playback.com/20250214/41572_aa087b92/index.m3u8
+#EXTINF:-1 group-title="动作片", 蚁型危机
+https://v9.tlkqc.com/wjv9/202505/16/K54Qb4TYJp81/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 group-title="动作片", 殊死一搏
+https://svip.high21-playback.com/20240731/37923_e1c15890/2000k/hls/mixed.m3u8
 
 #EXTINF:-1 group-title="喜剧片", 我的世界大电影(原声)
 https://svip.high21-playback.com/20250514/42958_7882b494/index.m3u8
@@ -57,6 +63,10 @@ https://svip.high21-playback.com/20250514/42958_7882b494/index.m3u8
 https://svip.high21-playback.com/20250514/42959_60eefdd9/index.m3u8
 #EXTINF:-1 group-title="喜剧片", 我的世界大电影(华语)
 https://svip.high21-playback.com/20250514/42957_10308df8/index.m3u8
+#EXTINF:-1 group-title="喜剧片", 根本停不下来
+https://v9.tlkqc.com/wjv9/202505/11/626QNtfbde81/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 group-title="喜剧片", 雷霆女神
+https://yzzy.play-cdn4.com/20220603/16418_f557cb46/1000k/hls/mixed.m3u8
 
 #EXTINF:-1 group-title="科幻片", 逃生舱
 https://svip.high21-playback.com/20240814/38212_7fec748a/index.m3u8
@@ -79,6 +89,12 @@ https://v.cdnlz12.com/20241028/17489_82691100/index.m3u8
 https://svip.high21-playback.com/20241109/39896_14b7344c/index.m3u8
 #EXTINF:-1 group-title="恐怖片", 隐藏的面孔2024
 https://svip.high21-playback.com/20250108/40924_ebb9e374/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="恐怖片", 死神来了6:血脉诅咒
+https://svip.high21-playback.com/20250518/43015_9d37d082/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="恐怖片", 手机见鬼
+https://v10.tlkqc.com/wjv10/202505/20/21Pv8XJrVy82/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 group-title="恐怖片", 恐怖特快
+https://v9.tlkqc.com/wjv9/202504/30/SvyGwFzh1T81/video/1000k_720/hls/index.m3u8
 
 #EXTINF:-1 group-title="战争片", 深山狙击
 https://svip.high21-playback.com/20250303/41816_37b0e94b/index.m3u8
