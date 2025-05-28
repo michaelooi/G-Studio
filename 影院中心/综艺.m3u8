@@ -27,3 +27,6 @@ https://m3u8.hmrvideo.com/play/371bfb8f205e4883ad71b245d3285811.m3u8
 https://m3u8.hmrvideo.com/play/9f7dc1f109b14be799ff29ab0a8fc760.m3u8
 #EXTINF:22 tvg-name="" tvg-logo="https://vcover-vt-pic.puui.qpic.cn/vcover_vt_pic/0/mzc00200qhxxetd1715776356823/0" group-title="青春环游记[第五季]", 20240803
 https://m3u8.hmrvideo.com/play/47a1eeb5646c4f078ac3e0320eff4e11.m3u8
+
+#EXTINF:-1 group-title="奔跑吧第九季", 20250425
+https://v10.tlkqc.com/wjv10/202504/25/S1ZmsKhUEB82/video/1000k_720/hls/index.m3u8
