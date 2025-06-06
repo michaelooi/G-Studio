@@ -95,7 +95,8 @@ https://v2.tlkqc.com/202505/23/RMwjyUsJ0m74/video/1000k_720/hls/index.m3u8
 https://v2.tlkqc.com/wjv2/202506/06/362MQBFckk74/video/1000k_720/hls/index.m3u8
 #EXTINF:-1 group-title="喜剧片", 闪光少女电影版
 https://v1.tlkqc.com/wjv1/202308/20/Z8MyxRWNit2/video/1000k_720/hls/index.m3u8
-#EXTINF:-1 group-title="喜剧片", 
+#EXTINF:-1 group-title="喜剧片", 根本停不下来
+https://v9.tlkqc.com/wjv9/202505/11/626QNtfbde81/video/1000k_720/hls/index.m3u8
 #EXTINF:-1 group-title="喜剧片", 
 
 
@@ -111,6 +112,18 @@ https://svip.high21-playback.com/20250314/41985_73163da2/index.m3u8
 https://svip.high21-playback.com/20250304/41819_d8623a03/index.m3u8
 #EXTINF:-1 group-title="科幻片", 蜘蛛夫人-超感觉醒
 https://yzzy.play-cdn21.com/20240315/9646_b4328d07/index.m3u8
+EXTINF:-1 group-title="科幻片", 异星入侵:凤凰出山
+https://svip.high21-playback.com/20250520/43028_8935ea08/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="科幻片", 自由落体2025
+https://v.lzcdn25.com/20250605/691_04618acd/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="科幻片", 星际监狱2025
+https://v1.tlkqc.com/wjv1/202505/26/Q0wxzuwmaQ85/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 group-title="科幻片", 烈日风暴
+https://svip.high21-playback.com/20250514/42969_b275aac1/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="科幻片", 念力
+https://v12.tlkqc.com/wjv12/202403/29/LXKQ7xsiXn5/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 group-title="科幻片", 
+#EXTINF:-1 group-title="科幻片", 
 
 #EXTINF:-1 group-title="恐怖片", 湄公河水鬼
 https://svip.high21-playback.com/20241118/40074_a545868b/index.m3u8
