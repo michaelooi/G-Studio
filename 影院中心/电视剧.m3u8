@@ -5,6 +5,15 @@
 #EXT-X-TARGETDURATION:7
 #EXT-X-DISCONTINUITY
 
+#EXTINF:-1 group-title="十二使者", 01
+https://play.modujx11.com/20250823/mr0Jljmj/index.m3u8
+#EXTINF:-1 group-title="十二使者", 02
+https://play.modujx11.com/20250824/IM9NgULA/index.m3u8
+#EXTINF:-1 group-title="十二使者", 03
+https://play.modujx11.com/20250830/dl21UDfg/index.m3u8
+#EXTINF:-1 group-title="十二使者", 04
+https://play.modujx11.com/20250831/1h3UR5Zv/index.m3u8
+
 #EXTINF:-1 group-title="特工任务", 01
 https://v8.tlkqc.com/wjv8/202309/20/ZcJ0CZtSGD1/video/index.m3u8
 #EXTINF:-1 group-title="特工任务", 02
