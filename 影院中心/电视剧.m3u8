@@ -5,18 +5,32 @@
 #EXT-X-TARGETDURATION:7
 #EXT-X-DISCONTINUITY
 
-#EXTINF:-1 group-title="十二使者", 01
-https://play.modujx11.com/20250823/mr0Jljmj/index.m3u8
-#EXTINF:-1 group-title="十二使者", 02
-https://play.modujx11.com/20250824/IM9NgULA/index.m3u8
-#EXTINF:-1 group-title="十二使者", 03
-https://play.modujx11.com/20250830/dl21UDfg/index.m3u8
-#EXTINF:-1 group-title="十二使者", 04
-https://play.modujx11.com/20250831/1h3UR5Zv/index.m3u8
-#EXTINF:-1 group-title="十二使者", 05
-https://play.modujx11.com/20250906/4PW1WJku/index.m3u8
-#EXTINF:-1 group-title="十二使者", 06
-https://play.modujx11.com/20250907/NV6luRVy\/index.m3u8
+#EXTINF:-1 group-title="绝命法官粤语", 01
+https://cdn.yzzy31-play.com/20250928/417_41ae36ec/index.m3u8
+#EXTINF:-1 group-title="绝命法官粤语", 02
+https://cdn.yzzy31-play.com/20250928/418_d1f255a3/index.m3u8
+#EXTINF:-1 group-title="绝命法官粤语", 03
+https://cdn.yzzy31-play.com/20250929/612_f76a89f0/index.m3u8
+#EXTINF:-1 group-title="绝命法官粤语", 04
+https://cdn.yzzy31-play.com/20250929/613_f29c21d4/index.m3u8
+#EXTINF:-1 group-title="绝命法官粤语", 05
+https://cdn.yzzy29-play.com/20250930/3719_9e740b84/index.m3u8
+#EXTINF:-1 group-title="绝命法官粤语", 06
+#EXTINF:-1 group-title="绝命法官粤语", 07
+#EXTINF:-1 group-title="绝命法官粤语", 08
+#EXTINF:-1 group-title="绝命法官粤语", 09
+#EXTINF:-1 group-title="绝命法官粤语", 10
+#EXTINF:-1 group-title="绝命法官粤语", 11
+#EXTINF:-1 group-title="绝命法官粤语", 12
+#EXTINF:-1 group-title="绝命法官粤语", 13
+#EXTINF:-1 group-title="绝命法官粤语", 14
+#EXTINF:-1 group-title="绝命法官粤语", 15
+#EXTINF:-1 group-title="绝命法官粤语", 16
+#EXTINF:-1 group-title="绝命法官粤语", 17
+#EXTINF:-1 group-title="绝命法官粤语", 18
+#EXTINF:-1 group-title="绝命法官粤语", 19
+#EXTINF:-1 group-title="绝命法官粤语", 20
+
 
 #EXTINF:-1 group-title="特工任务", 01
 https://v8.tlkqc.com/wjv8/202309/20/ZcJ0CZtSGD1/video/index.m3u8
