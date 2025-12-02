@@ -5,15 +5,17 @@
 #EXT-X-TARGETDURATION:7
 #EXT-X-DISCONTINUITY
 
-#EXTINF:-1 group-title="绝命法官粤语", 01
+#EXTINF:-1 group-title="绝命法官粤语", 绝命法官01
+https://v.fengbao8.com/video/juemingfaguanyueyu/u7b2c01u96c6/index.m3u8
+#EXTINF:-1 group-title="绝命法官粤语", 绝命法官02
 https://cdn.yzzy31-play.com/20250928/417_41ae36ec/index.m3u8
-#EXTINF:-1 group-title="绝命法官粤语", 02
+#EXTINF:-1 group-title="绝命法官粤语", 绝命法官03
 https://cdn.yzzy31-play.com/20250928/418_d1f255a3/index.m3u8
-#EXTINF:-1 group-title="绝命法官粤语", 03
+#EXTINF:-1 group-title="绝命法官粤语", 绝命法官04
 https://cdn.yzzy31-play.com/20250929/612_f76a89f0/index.m3u8
-#EXTINF:-1 group-title="绝命法官粤语", 04
+#EXTINF:-1 group-title="绝命法官粤语", 绝命法官05
 https://cdn.yzzy31-play.com/20250929/613_f29c21d4/index.m3u8
-#EXTINF:-1 group-title="绝命法官粤语", 05
+#EXTINF:-1 group-title="绝命法官粤语", 绝命法官06
 https://cdn.yzzy29-play.com/20250930/3719_9e740b84/index.m3u8
 #EXTINF:-1 group-title="绝命法官粤语", 06
 #EXTINF:-1 group-title="绝命法官粤语", 07
